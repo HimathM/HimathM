@@ -1,7 +1,7 @@
 # Himath Mandul
 **`Student/YouTuber/Programmer`**
 
-Welcome to my Github profile. Here I share projects the projects I do.
+Welcome to my Github profile. Here I share the projects I do.
 
 ---
 
